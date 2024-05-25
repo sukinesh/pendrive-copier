@@ -1,0 +1,1 @@
+wscript.exe "visible.vbs" "drive.bat"
